@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "users": {
+  "admin": {
+   "login": "admin",
+   "pass": "adminOPTIMAL",
+   "name": "Administrator",
+   "role": "admin",
+   "createdAt": "2026-10-18T20:17:23.577Z"
+  },
+  "user1": {
+   "login": "user1",
+   "pass": "user1OPTIMAL",
+   "name": "User 1",
+   "role": "user",
+   "createdAt": "2026-10-18T20:17:23.577Z"
+  }
+ },
+ "rolls": {},
+ "projects": {},
+ "meta": {
+  "nextSerial": 1
+ },
+ "updatedAt": "2026-10-18T20:17:23.577Z",
+ "updatedBy": "system"
+}
