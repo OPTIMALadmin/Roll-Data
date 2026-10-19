@@ -152,7 +152,27 @@
    "serial": 2,
    "createdAt": "2026-10-19T14:34:04.538Z",
    "createdBy": "user1",
-   "usages": [],
+   "usages": [
+    {
+     "id": "mvfcwhpvpc3hb",
+     "outAt": "2026-10-19T14:34:00.000Z",
+     "inAt": null,
+     "meters": 3,
+     "projectId": "prj-mvfchb4hxd0t8",
+     "projectName": "P50001 — Test Project",
+     "parts": [
+      {
+       "partId": "pt-mvfchyiqvmldh",
+       "name": "Test Part 2",
+       "pn": "002",
+       "qty": 6
+      }
+     ],
+     "remark": "Test cut 2",
+     "at": "2026-10-19T14:35:26.514Z",
+     "by": "user1"
+    }
+   ],
    "notes": [
     {
      "id": "mvfcuqgqiwkl1",
@@ -166,6 +186,11 @@
      "at": "2026-10-19T14:34:04.538Z",
      "by": "user1",
      "action": "Roll registered as OPT-PP-00002"
+    },
+    {
+     "at": "2026-10-19T14:35:26.514Z",
+     "by": "user1",
+     "action": "Withdrew 3,00 m for P50001 — Test Project — 6× Test Part 2 · roll out of cold storage"
     }
    ],
    "archived": false
@@ -200,6 +225,6 @@
  "meta": {
   "nextSerial": 3
  },
- "updatedAt": "2026-10-19T14:34:04.538Z",
+ "updatedAt": "2026-10-19T14:35:26.515Z",
  "updatedBy": "user1"
 }
