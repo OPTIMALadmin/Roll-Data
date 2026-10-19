@@ -157,7 +157,7 @@
      "id": "mvfcwhpvpc3hb",
      "outAt": "2026-10-19T14:34:00.000Z",
      "inAt": null,
-     "meters": 3,
+     "meters": 7,
      "projectId": "prj-mvfchb4hxd0t8",
      "projectName": "P50001 — Test Project",
      "parts": [
@@ -166,11 +166,25 @@
        "name": "Test Part 2",
        "pn": "002",
        "qty": 6
+      },
+      {
+       "partId": "pt-mvfchr56e9e9k",
+       "name": "Test part 1",
+       "pn": "001",
+       "qty": 8
+      },
+      {
+       "partId": "pt-mvfci5fm2wu8l",
+       "name": "Test part 3",
+       "pn": "003",
+       "qty": 2
       }
      ],
      "remark": "Test cut 2",
      "at": "2026-10-19T14:35:26.514Z",
-     "by": "user1"
+     "by": "user1",
+     "editedAt": "2026-10-19T14:35:55.338Z",
+     "editedBy": "user1"
     }
    ],
    "notes": [
@@ -191,6 +205,11 @@
      "at": "2026-10-19T14:35:26.514Z",
      "by": "user1",
      "action": "Withdrew 3,00 m for P50001 — Test Project — 6× Test Part 2 · roll out of cold storage"
+    },
+    {
+     "at": "2026-10-19T14:35:55.338Z",
+     "by": "user1",
+     "action": "Edited withdrawal of 7,00 m (P50001 — Test Project)"
     }
    ],
    "archived": false
@@ -225,6 +244,6 @@
  "meta": {
   "nextSerial": 3
  },
- "updatedAt": "2026-10-19T14:35:26.515Z",
+ "updatedAt": "2026-10-19T14:35:55.339Z",
  "updatedBy": "user1"
 }
