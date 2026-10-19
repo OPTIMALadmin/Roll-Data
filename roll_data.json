@@ -6,21 +6,31 @@
    "pass": "adminOPTIMAL",
    "name": "Administrator",
    "role": "admin",
-   "createdAt": "2026-10-18T20:17:23.577Z"
+   "createdAt": "2026-10-18T20:17:23.577Z",
+   "id": "admin"
   },
   "user1": {
    "login": "user1",
    "pass": "user1OPTIMAL",
    "name": "User 1",
    "role": "user",
-   "createdAt": "2026-10-18T20:17:23.577Z"
+   "createdAt": "2026-10-18T20:17:23.577Z",
+   "id": "user1"
   }
  },
  "rolls": {},
- "projects": {},
+ "projects": {
+  "prj-mvfchb4hxd0t8": {
+   "code": "P50001",
+   "name": "Test Project",
+   "parts": [],
+   "createdAt": "2026-10-19T14:23:38.130Z",
+   "createdBy": "admin"
+  }
+ },
  "meta": {
   "nextSerial": 1
  },
- "updatedAt": "2026-10-18T20:17:23.577Z",
- "updatedBy": "system"
+ "updatedAt": "2026-10-19T14:23:38.130Z",
+ "updatedBy": "admin"
 }
