@@ -23,7 +23,13 @@
   "prj-mvfchb4hxd0t8": {
    "code": "P50001",
    "name": "Test Project",
-   "parts": [],
+   "parts": [
+    {
+     "id": "pt-mvfchr56e9e9k",
+     "pn": "001",
+     "name": "Test part 1"
+    }
+   ],
    "createdAt": "2026-10-19T14:23:38.130Z",
    "createdBy": "admin"
   }
@@ -31,6 +37,6 @@
  "meta": {
   "nextSerial": 1
  },
- "updatedAt": "2026-10-19T14:23:38.130Z",
+ "updatedAt": "2026-10-19T14:23:58.890Z",
  "updatedBy": "admin"
 }
