@@ -33,6 +33,11 @@
      "id": "pt-mvfchyiqvmldh",
      "pn": "002",
      "name": "Test Part 2"
+    },
+    {
+     "id": "pt-mvfci5fm2wu8l",
+     "pn": "003",
+     "name": "Test part 3"
     }
    ],
    "createdAt": "2026-10-19T14:23:38.130Z",
@@ -42,6 +47,6 @@
  "meta": {
   "nextSerial": 1
  },
- "updatedAt": "2026-10-19T14:24:08.450Z",
+ "updatedAt": "2026-10-19T14:24:17.410Z",
  "updatedBy": "admin"
 }
