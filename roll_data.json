@@ -35,7 +35,7 @@
     {
      "id": "mvfckwq2kxs92",
      "outAt": "2026-10-19T14:26:00.000Z",
-     "inAt": null,
+     "inAt": "2026-10-19T14:26:47.041Z",
      "meters": 3,
      "projectId": "prj-mvfchb4hxd0t8",
      "projectName": "P50001 — Test Project",
@@ -82,6 +82,11 @@
      "at": "2026-10-19T14:26:26.090Z",
      "by": "user1",
      "action": "Withdrew 3,00 m for P50001 — Test Project — 2× Test part 1, 1× Test Part 2, 3× Test part 3 · roll out of cold storage"
+    },
+    {
+     "at": "2026-10-19T14:26:47.041Z",
+     "by": "user1",
+     "action": "Returned to cold storage after 0,0 h"
     }
    ],
    "archived": false
@@ -116,6 +121,6 @@
  "meta": {
   "nextSerial": 2
  },
- "updatedAt": "2026-10-19T14:26:26.090Z",
+ "updatedAt": "2026-10-19T14:26:47.042Z",
  "updatedBy": "user1"
 }
