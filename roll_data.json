@@ -156,7 +156,7 @@
     {
      "id": "mvfcwhpvpc3hb",
      "outAt": "2026-10-19T14:34:00.000Z",
-     "inAt": null,
+     "inAt": "2026-10-19T14:36:03.050Z",
      "meters": 7,
      "projectId": "prj-mvfchb4hxd0t8",
      "projectName": "P50001 — Test Project",
@@ -210,6 +210,11 @@
      "at": "2026-10-19T14:35:55.338Z",
      "by": "user1",
      "action": "Edited withdrawal of 7,00 m (P50001 — Test Project)"
+    },
+    {
+     "at": "2026-10-19T14:36:03.050Z",
+     "by": "user1",
+     "action": "Returned to cold storage after 0,0 h"
     }
    ],
    "archived": false
@@ -244,6 +249,6 @@
  "meta": {
   "nextSerial": 3
  },
- "updatedAt": "2026-10-19T14:35:55.339Z",
+ "updatedAt": "2026-10-19T14:36:03.052Z",
  "updatedBy": "user1"
 }
