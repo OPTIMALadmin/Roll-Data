@@ -75,7 +75,7 @@
        "partId": "pt-mvfchr56e9e9k",
        "name": "Test part 1",
        "pn": "001",
-       "qty": 1
+       "qty": 2
       },
       {
        "partId": "pt-mvfchyiqvmldh",
@@ -92,7 +92,9 @@
      ],
      "remark": "Test 2",
      "at": "2026-10-19T14:27:26.305Z",
-     "by": "user1"
+     "by": "user1",
+     "editedAt": "2026-10-19T14:27:39.938Z",
+     "editedBy": "user1"
     }
    ],
    "notes": [
@@ -123,6 +125,11 @@
      "at": "2026-10-19T14:27:26.305Z",
      "by": "user1",
      "action": "Withdrew 5,00 m for P50001 — Test Project — 1× Test part 1, 4× Test Part 2, 1× Test part 3 · roll out of cold storage"
+    },
+    {
+     "at": "2026-10-19T14:27:39.938Z",
+     "by": "user1",
+     "action": "Edited withdrawal of 5,00 m (P50001 — Test Project)"
     }
    ],
    "archived": false
@@ -157,6 +164,6 @@
  "meta": {
   "nextSerial": 2
  },
- "updatedAt": "2026-10-19T14:27:26.306Z",
+ "updatedAt": "2026-10-19T14:27:39.939Z",
  "updatedBy": "user1"
 }
