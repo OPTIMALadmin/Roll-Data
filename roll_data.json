@@ -18,7 +18,38 @@
    "id": "user1"
   }
  },
- "rolls": {},
+ "rolls": {
+  "roll-00001": {
+   "material": "Test Material",
+   "supplier": "Test Supplier",
+   "supplierSN": "#123456",
+   "arrival": "2026-10-19T11:00:00.000Z",
+   "lifeColdMonths": 12,
+   "lifeOutDays": 30,
+   "width": 1250,
+   "initialLength": 50,
+   "serial": 1,
+   "createdAt": "2026-10-19T14:25:21.762Z",
+   "createdBy": "admin",
+   "usages": [],
+   "notes": [
+    {
+     "id": "mvfcjj37e67t8",
+     "text": "Test Roll",
+     "at": "2026-10-19T14:25:21.762Z",
+     "by": "admin"
+    }
+   ],
+   "history": [
+    {
+     "at": "2026-10-19T14:25:21.762Z",
+     "by": "admin",
+     "action": "Roll registered as OPT-PP-00001"
+    }
+   ],
+   "archived": false
+  }
+ },
  "projects": {
   "prj-mvfchb4hxd0t8": {
    "code": "P50001",
@@ -41,12 +72,13 @@
     }
    ],
    "createdAt": "2026-10-19T14:23:38.130Z",
-   "createdBy": "admin"
+   "createdBy": "admin",
+   "id": "prj-mvfchb4hxd0t8"
   }
  },
  "meta": {
-  "nextSerial": 1
+  "nextSerial": 2
  },
- "updatedAt": "2026-10-19T14:24:17.410Z",
+ "updatedAt": "2026-10-19T14:25:21.763Z",
  "updatedBy": "admin"
 }
