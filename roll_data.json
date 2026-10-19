@@ -137,6 +137,37 @@
      "action": "Returned to cold storage after 0,0 h"
     }
    ],
+   "archived": false,
+   "id": "roll-00001"
+  },
+  "roll-00002": {
+   "material": "Test Mat 2",
+   "supplier": "Test Supplier 2",
+   "supplierSN": "#12345678 Batch XPTO",
+   "arrival": "2026-10-19T11:00:00.000Z",
+   "lifeColdMonths": 12,
+   "lifeOutDays": 30,
+   "width": 1500,
+   "initialLength": 30,
+   "serial": 2,
+   "createdAt": "2026-10-19T14:34:04.538Z",
+   "createdBy": "user1",
+   "usages": [],
+   "notes": [
+    {
+     "id": "mvfcuqgqiwkl1",
+     "text": "Test Roll 2",
+     "at": "2026-10-19T14:34:04.538Z",
+     "by": "user1"
+    }
+   ],
+   "history": [
+    {
+     "at": "2026-10-19T14:34:04.538Z",
+     "by": "user1",
+     "action": "Roll registered as OPT-PP-00002"
+    }
+   ],
    "archived": false
   }
  },
@@ -167,8 +198,8 @@
   }
  },
  "meta": {
-  "nextSerial": 2
+  "nextSerial": 3
  },
- "updatedAt": "2026-10-19T14:27:44.330Z",
+ "updatedAt": "2026-10-19T14:34:04.538Z",
  "updatedBy": "user1"
 }
